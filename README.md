@@ -1,2 +1,1 @@
-# webapp
-for docker
+# WebApp
